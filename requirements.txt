@@ -1,4 +1,10 @@
-Python
-  numpy
-  matplotlib
-  sympy
+linear_regression.py:
+  Python
+    numpy
+    sympy
+    matplotlib
+
+  Python
+    numpy
+    scipy.linalg
+    matplotlib
