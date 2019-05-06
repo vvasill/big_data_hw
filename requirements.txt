@@ -1,10 +1,11 @@
 linear_regression.py:
-  Python
+  Python:
     numpy
     sympy
     matplotlib
 
-  Python
+optimal_linear_estimation.py:
+  Python:
     numpy
     scipy.linalg
     matplotlib
