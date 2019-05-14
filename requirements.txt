@@ -4,7 +4,7 @@ linear_regression.py:
     sympy
     matplotlib
 
-optimal_linear_estimation.py:
+optimal_linear_estimation.py, optimal_linear_estimation_with_calibration.py:
   Python:
     numpy
     scipy.linalg
